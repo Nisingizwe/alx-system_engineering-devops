@@ -1,3 +1,2 @@
 #!/bin/bash 
-cd -
-kk
+mkdir -p tmp/my_first_directory/
