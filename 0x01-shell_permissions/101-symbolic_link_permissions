@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:staff _hello
+find ./ -group:guillaume -name:hello |  xargs chown betty
