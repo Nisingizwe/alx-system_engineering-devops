@@ -1,0 +1,2 @@
+#!/bash/bin
+echo -e "$((128+TRUEKNOWLEDGE))\n"
